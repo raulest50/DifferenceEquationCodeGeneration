@@ -5,4 +5,7 @@ de una ecuacion de diferencias apartir de una funcion de transferencia
 en Z.
 
 inicialmente se trabajara en una implementacion para matlab pero la
-idea es da soporte para multiples lengiajes de programacion.
+idea es dar soporte para multiples lenguajes de programacion.
+
+En el proyecto se tiene un modelo de simulink para hacer validacion
+del codigo generado vs el bloque discrete transfer function.
