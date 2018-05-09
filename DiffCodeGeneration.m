@@ -2,7 +2,14 @@
 % de transferencia en Z y genera un codigo ejecutable de ecuacion de 
 % diferencias.
 
-% numerador y denominador de la funcion de transferencia en z
+%
+%%
+%
+% ESCRIBA EN NUM Y EN DEN EL NUMERADOR Y DENOMINADOR DE
+% LA FUNCION DE TRANSFERENCIA EN Z.
+%
+%%
+%
 Num = Hz.Numerator{1};
 Den = Hz.Denominator{1};
 
